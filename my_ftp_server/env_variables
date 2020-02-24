@@ -1,0 +1,9 @@
+HW1_MODE=server
+HW1_HOST=127.0.0.1
+HW1_PORT=12345
+HW1_TEST=minimal
+HW1_USERS=~/ftp_server/my_ftp_server/users.tsv
+HW1_DIRECTORY=~/ftp_server/my_ftp_server/data
+HW1_QUIET=1
+HW1_AUTH_DISABLED=1
+
